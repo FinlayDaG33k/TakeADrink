@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TakeADrink.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">23fb05226b8195e40ba2ad69f09eed64</Value>
+    </Setting>
+    <Setting Name="currentCity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Amsterdam</Value>
+    </Setting>
+    <Setting Name="currentIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">213.93.129.149</Value>
+    </Setting>
+    <Setting Name="currentCountry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NL</Value>
+    </Setting>
+    <Setting Name="locationUpdateDelay" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">300000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

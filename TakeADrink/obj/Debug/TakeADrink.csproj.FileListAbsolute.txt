@@ -1,0 +1,53 @@
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\MainWindow.g.cs
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\App.g.cs
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink_MarkupCompile.cache
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink_MarkupCompile.lref
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\TakeADrink.exe.config
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\TakeADrink.exe
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\TakeADrink.pdb
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.dll
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\System.Windows.Interactivity.dll
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.pdb
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.xml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\App.baml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\MainWindow.baml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.g.resources
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.Properties.Resources.resources
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.csproj.GenerateResource.Cache
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.exe
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.pdb
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\TakeADrink.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\Newtonsoft.Json.dll
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\bin\Debug\Newtonsoft.Json.xml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\Resources\Icons.baml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\Resources\IconsNonShared.baml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\settings.g.cs
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\settings.baml
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\about.g.cs
+g:\documents\visual studio 2017\Projects\TakeADrink\TakeADrink\obj\Debug\about.baml
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\TakeADrink.exe.config
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\TakeADrink.exe
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\TakeADrink.pdb
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.dll
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\System.Windows.Interactivity.dll
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.pdb
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\MahApps.Metro.xml
+E:\GitHub\TakeADrink\TakeADrink\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\Resources\Icons.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\Resources\IconsNonShared.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\about.g.cs
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\MainWindow.g.cs
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\settings.g.cs
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\App.g.cs
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink_MarkupCompile.cache
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink_MarkupCompile.lref
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\App.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\about.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\MainWindow.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\settings.baml
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink.g.resources
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink.Properties.Resources.resources
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink.csproj.GenerateResource.Cache
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink.exe
+E:\GitHub\TakeADrink\TakeADrink\obj\Debug\TakeADrink.pdb

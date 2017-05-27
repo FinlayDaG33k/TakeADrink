@@ -1,0 +1,40 @@
+﻿<Controls:MetroWindow x:Class="TakeADrink.about"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TakeADrink"
+        mc:Ignorable="d"
+        Title="about" Height="300" Width="300" ShowMaxRestoreButton="False" Loaded="MetroWindow_Loaded">
+    <Grid>
+        <Label x:Name="label" Content="Creator: " HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Aroop &quot;FinlayDaG33k&quot; Roelofs" HorizontalAlignment="Left" Margin="93,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Powered By: " HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" HorizontalAlignment="Left" Margin="93,88,0,0" VerticalAlignment="Top">
+            <Hyperlink NavigateUri="https://dyndns.org">
+                DynDNS
+            </Hyperlink>
+        </Label>
+        <Label x:Name="label4" HorizontalAlignment="Left" Margin="159,88,0,0" VerticalAlignment="Top">
+            <Hyperlink NavigateUri="https://freegeoip.net">
+                FreeGeoIP.net
+            </Hyperlink>
+        </Label>
+        <Label x:Name="label5" HorizontalAlignment="Left" Margin="93,114,0,0" VerticalAlignment="Top">
+            <Hyperlink NavigateUri="http://mahapps.com">
+                MahApps
+            </Hyperlink>
+        </Label>
+        <Label x:Name="label6" HorizontalAlignment="Left" Margin="159,114,0,0" VerticalAlignment="Top">
+            <Hyperlink NavigateUri="http://openweathermap.org/">
+                OpenWeatherMap
+            </Hyperlink>
+        </Label>
+        <Label x:Name="label7" Content="Version:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="" HorizontalAlignment="Left" Margin="93,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9" Content="Licence: " HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label10" Content="FinlayDaG33k License" HorizontalAlignment="Left" Margin="93,62,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Controls:MetroWindow>

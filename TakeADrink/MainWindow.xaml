@@ -1,0 +1,88 @@
+﻿<Controls:MetroWindow x:Class="TakeADrink.MainWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TakeADrink"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="595" Width="790"
+        ShowIconOnTitleBar="True" ContentRendered="MetroWindow_ContentRendered">
+    <Controls:MetroWindow.IconTemplate>
+        <DataTemplate>
+            <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                <Rectangle.OpacityMask>
+                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_cloud}" />
+                </Rectangle.OpacityMask>
+            </Rectangle>
+        </DataTemplate>
+    </Controls:MetroWindow.IconTemplate>
+    <Grid>
+        <Label x:Name="label1" Content="Location:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="" HorizontalAlignment="Left" Margin="73,10,0,0" VerticalAlignment="Top"/>
+        <StatusBar x:Name="StatusBar" HorizontalAlignment="Stretch" Height="35" VerticalAlignment="Bottom">
+            <Label x:Name="label_Status" Content=""/>
+        </StatusBar>
+        <Label x:Name="label" Content="Temperature:" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Humidity:" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.151,-3.543"/>
+        <Label x:Name="label4" Content="Air Pressure:" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label5" Content="Weather:" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label6" Content="Wind:" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label7" Content="" HorizontalAlignment="Left" Margin="94,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="" HorizontalAlignment="Left" Margin="94,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9" Content="" HorizontalAlignment="Left" Margin="94,62,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label10" Content="" HorizontalAlignment="Left" Margin="94,88,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label11" Content="" HorizontalAlignment="Left" Margin="94,114,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label12" Content="" HorizontalAlignment="Left" Margin="94,140,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button>
+                <StackPanel x:Name="SP_Settings" Orientation="Horizontal" MouseDown="SP_Settings_MouseDown">
+                    <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_cogs}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Settings" />
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel x:Name="SP_Contribute" Orientation="Horizontal" MouseDown="SP_Contribute_MouseDown">
+                    <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_github}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Contribute" />
+                </StackPanel>
+            </Button>
+            <Button>
+                <StackPanel x:Name="SP_About" Orientation="Horizontal" MouseDown="SP_About_MouseDown">
+                    <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_information_circle}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="About" />
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+</Controls:MetroWindow>
